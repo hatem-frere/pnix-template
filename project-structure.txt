@@ -1,0 +1,290 @@
+Folder PATH listing for volume Work
+Volume serial number is 4BE4-A610
+E:.
+|   404.html
+|   about.html
+|   blog-single.html
+|   blog.html
+|   contact.html
+|   index-rtl.html
+|   index.html
+|   package-lock.json
+|   package.json
+|   portfolio-details.html
+|   portfolio.html
+|   project-structure.txt
+|   services.html
+|   
++---assets
+|   +---css
+|   +---images
+|   \---js
++---documentation
++---js
+|   |   main.js
+|   |   
+|   \---vendor
++---node_modules
+|   |   .package-lock.json
+|   |   
+|   +---.bin
+|   |       sass
+|   |       sass.cmd
+|   |       sass.ps1
+|   |       
+|   +---@parcel
+|   |   +---watcher
+|   |   |   |   binding.gyp
+|   |   |   |   index.d.ts
+|   |   |   |   index.js
+|   |   |   |   index.js.flow
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   wrapper.js
+|   |   |   |   
+|   |   |   +---scripts
+|   |   |   |       build-from-source.js
+|   |   |   |       
+|   |   |   \---src
+|   |   |       |   Backend.cc
+|   |   |       |   Backend.hh
+|   |   |       |   binding.cc
+|   |   |       |   Debounce.cc
+|   |   |       |   Debounce.hh
+|   |   |       |   DirTree.cc
+|   |   |       |   DirTree.hh
+|   |   |       |   Event.hh
+|   |   |       |   Glob.cc
+|   |   |       |   Glob.hh
+|   |   |       |   PromiseRunner.hh
+|   |   |       |   Signal.hh
+|   |   |       |   Watcher.cc
+|   |   |       |   Watcher.hh
+|   |   |       |   
+|   |   |       +---kqueue
+|   |   |       |       KqueueBackend.cc
+|   |   |       |       KqueueBackend.hh
+|   |   |       |       
+|   |   |       +---linux
+|   |   |       |       InotifyBackend.cc
+|   |   |       |       InotifyBackend.hh
+|   |   |       |       
+|   |   |       +---macos
+|   |   |       |       FSEventsBackend.cc
+|   |   |       |       FSEventsBackend.hh
+|   |   |       |       
+|   |   |       +---shared
+|   |   |       |       BruteForceBackend.cc
+|   |   |       |       BruteForceBackend.hh
+|   |   |       |       
+|   |   |       +---unix
+|   |   |       |       fts.cc
+|   |   |       |       legacy.cc
+|   |   |       |       
+|   |   |       +---wasm
+|   |   |       |       include.h
+|   |   |       |       WasmBackend.cc
+|   |   |       |       WasmBackend.hh
+|   |   |       |       
+|   |   |       +---watchman
+|   |   |       |       BSER.cc
+|   |   |       |       BSER.hh
+|   |   |       |       IPC.hh
+|   |   |       |       WatchmanBackend.cc
+|   |   |       |       WatchmanBackend.hh
+|   |   |       |       
+|   |   |       \---windows
+|   |   |               WindowsBackend.cc
+|   |   |               WindowsBackend.hh
+|   |   |               win_utils.cc
+|   |   |               win_utils.hh
+|   |   |               
+|   |   \---watcher-win32-x64
+|   |           LICENSE
+|   |           package.json
+|   |           README.md
+|   |           watcher.node
+|   |           
+|   +---chokidar
+|   |       handler.d.ts
+|   |       handler.js
+|   |       index.d.ts
+|   |       index.js
+|   |       LICENSE
+|   |       package.json
+|   |       README.md
+|   |       
+|   +---detect-libc
+|   |   |   index.d.ts
+|   |   |   LICENSE
+|   |   |   package.json
+|   |   |   README.md
+|   |   |   
+|   |   \---lib
+|   |           detect-libc.js
+|   |           elf.js
+|   |           filesystem.js
+|   |           process.js
+|   |           
+|   +---immutable
+|   |   |   LICENSE
+|   |   |   package.json
+|   |   |   README.md
+|   |   |   
+|   |   \---dist
+|   |           immutable.d.ts
+|   |           immutable.es.js
+|   |           immutable.js
+|   |           immutable.js.flow
+|   |           immutable.min.js
+|   |           
+|   +---is-extglob
+|   |       index.js
+|   |       LICENSE
+|   |       package.json
+|   |       README.md
+|   |       
+|   +---is-glob
+|   |       index.js
+|   |       LICENSE
+|   |       package.json
+|   |       README.md
+|   |       
+|   +---node-addon-api
+|   |   |   common.gypi
+|   |   |   except.gypi
+|   |   |   index.js
+|   |   |   LICENSE.md
+|   |   |   napi-inl.deprecated.h
+|   |   |   napi-inl.h
+|   |   |   napi.h
+|   |   |   node_addon_api.gyp
+|   |   |   node_api.gyp
+|   |   |   noexcept.gypi
+|   |   |   nothing.c
+|   |   |   package-support.json
+|   |   |   package.json
+|   |   |   README.md
+|   |   |   
+|   |   \---tools
+|   |           check-napi.js
+|   |           clang-format.js
+|   |           conversion.js
+|   |           eslint-format.js
+|   |           README.md
+|   |           
+|   +---picomatch
+|   |   |   index.js
+|   |   |   LICENSE
+|   |   |   package.json
+|   |   |   posix.js
+|   |   |   README.md
+|   |   |   
+|   |   \---lib
+|   |           constants.js
+|   |           parse.js
+|   |           picomatch.js
+|   |           scan.js
+|   |           utils.js
+|   |           
+|   +---readdirp
+|   |       index.d.ts
+|   |       index.js
+|   |       LICENSE
+|   |       package.json
+|   |       README.md
+|   |       
+|   +---sass
+|   |   |   LICENSE
+|   |   |   package.json
+|   |   |   README.md
+|   |   |   sass.dart.js
+|   |   |   sass.default.cjs
+|   |   |   sass.default.js
+|   |   |   sass.js
+|   |   |   sass.node.js
+|   |   |   sass.node.mjs
+|   |   |   
+|   |   \---types
+|   |       |   compile.d.ts
+|   |       |   deprecations.d.ts
+|   |       |   exception.d.ts
+|   |       |   importer.d.ts
+|   |       |   index.d.ts
+|   |       |   options.d.ts
+|   |       |   
+|   |       +---legacy
+|   |       |       exception.d.ts
+|   |       |       function.d.ts
+|   |       |       importer.d.ts
+|   |       |       options.d.ts
+|   |       |       plugin_this.d.ts
+|   |       |       render.d.ts
+|   |       |       
+|   |       +---logger
+|   |       |       index.d.ts
+|   |       |       source_location.d.ts
+|   |       |       source_span.d.ts
+|   |       |       
+|   |       +---util
+|   |       |       promise_or.d.ts
+|   |       |       
+|   |       \---value
+|   |               argument_list.d.ts
+|   |               boolean.d.ts
+|   |               calculation.d.ts
+|   |               color.d.ts
+|   |               function.d.ts
+|   |               index.d.ts
+|   |               list.d.ts
+|   |               map.d.ts
+|   |               mixin.d.ts
+|   |               module.d.ts
+|   |               number.d.ts
+|   |               string.d.ts
+|   |               
+|   \---source-map-js
+|       |   LICENSE
+|       |   package.json
+|       |   README.md
+|       |   source-map.d.ts
+|       |   source-map.js
+|       |   
+|       \---lib
+|               array-set.js
+|               base64-vlq.js
+|               base64.js
+|               binary-search.js
+|               mapping-list.js
+|               quick-sort.js
+|               source-map-consumer.d.ts
+|               source-map-consumer.js
+|               source-map-generator.d.ts
+|               source-map-generator.js
+|               source-node.d.ts
+|               source-node.js
+|               util.js
+|               
+\---scss
+    |   style-rtl.scss
+    |   style.scss
+    |   _responsive.scss
+    |   
+    +---abstracts
+    |       _mixins.scss
+    |       _variables.scss
+    |       
+    +---base
+    |       _reset.scss
+    |       _typography.scss
+    |       
+    +---components
+    |       _buttons.scss
+    |       _footer.scss
+    |       _navbar.scss
+    |       
+    +---layout
+    |       _hero.scss
+    |       
+    \---pages
