@@ -1,0 +1,21 @@
+{
+  "name": "pnix-template",
+  "version": "1.0.0",
+  "description": "Professional Multipurpose Agency HTML Template",
+  "main": "index.js",
+  "scripts": {
+    "sass:compile": "sass scss/style.scss assets/css/style.css && sass scss/style-rtl.scss assets/css/style-rtl.css",
+    "sass:watch": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "themeforest",
+    "html-template",
+    "agency",
+    "pnix"
+  ],
+  "author": "Hatem Frere",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.70.0"
+  }
+}
